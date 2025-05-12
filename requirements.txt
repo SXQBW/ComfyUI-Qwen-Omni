@@ -1,4 +1,4 @@
-git+https://github.com/huggingface/transformers@v4.51.3-Qwen2.5-Omni-preview
+transformers>=4.51.3
 accelerate
 qwen_omni_utils
 numpy
