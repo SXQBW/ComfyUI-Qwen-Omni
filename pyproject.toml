@@ -14,7 +14,7 @@ Key features:
 
 By processing multiple input modalities simultaneously, the plugin delivers unprecedented in AI content creation, from creative writing to voiceovers and visual editing. Ideal for artists, developers, and researchers exploring the frontiers of multimodal AI.
 """
-version = "0.1.2"
+version = "0.1.3"
 license = {file = "LICENSE"}
 dependencies = [
     "accelerate",
